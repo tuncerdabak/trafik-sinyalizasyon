@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  location: ^5.0.0
+  geolocator: ^11.0.0
